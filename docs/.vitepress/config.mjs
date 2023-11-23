@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   outDir:'../public',
   base:'/vitepress-starter/',
-  title: "My Awesome Project",
+  title: "个人网站",
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
