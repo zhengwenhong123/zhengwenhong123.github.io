@@ -1,4 +1,4 @@
-image: node:16
+image: node:18
 pages:
   cache:
     paths:
@@ -11,4 +11,4 @@ pages:
     paths:
       - public
   only:
-    - mains
+    - main
