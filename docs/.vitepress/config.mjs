@@ -3,8 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
     outDir: '../public',
-    base: './',
-    publicPath:'/vitepress-starter/',
+    base: '/vitepress/',
     title: "我的第一个个人站点",
     description: "A VitePress Site",
     themeConfig: {
