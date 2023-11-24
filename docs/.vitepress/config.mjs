@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
     outDir: '../public',
     base: './',
+    publicPath:'/vitepress-starter/',
     title: "我的第一个个人站点",
     description: "A VitePress Site",
     themeConfig: {
